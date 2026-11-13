@@ -1,6 +1,6 @@
 # Hi, I'm Suvin V S 👋
 
-**Senior System Administrator · Desktop Support Engineer · IT Infrastructure** with 12+ years in banking, government and enterprise IT. Most recently the technical administrator for **44 State Bank of India branches**. Currently learning **AWS** and **CompTIA A+**, and moving to the **UAE (Abu Dhabi)**, available to join immediately.
+**Senior System Administrator · Desktop Support Engineer · IT Infrastructure** with 11+ years in banking, government and enterprise IT. Most recently the technical administrator for **44 State Bank of India branches**. Currently learning **AWS** and **CompTIA A+**, and based in **Abu Dhabi, UAE**, available to join immediately.
 
 🌐 [Portfolio](https://suvinofficial.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/suvin-v-s-780102297) · 📄 [CV](https://suvinofficial.github.io/Suvin_VS_CV.pdf) · ✉️ suvinoffice@gmail.com
 
